@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Spice Affair Caterers",
+    "location": "Bengaluru, KA",
+    "pricePerPlate": 850,
+    "cuisines": ["North Indian", "Mughlai"],
+    "rating": 4.6
+  },
+  {
+    "id": "2",
+    "name": "Anand Bhavan Catering",
+    "location": "Chennai, TN",
+    "pricePerPlate": 450,
+    "cuisines": ["South Indian", "Vegetarian"],
+    "rating": 4.7
+  },
+  {
+    "id": "3",
+    "name": "Coastal Pots & Pans",
+    "location": "Mangaluru, KA",
+    "pricePerPlate": 1100,
+    "cuisines": ["Mangalorean", "Seafood"],
+    "rating": 4.5
+  },
+  {
+    "id": "4",
+    "name": "Royal Rajwada Kitchens",
+    "location": "Jaipur, RJ",
+    "pricePerPlate": 1450,
+    "cuisines": ["Rajasthani", "North Indian"],
+    "rating": 4.8
+  },
+  {
+    "id": "5",
+    "name": "Mom's Tiffin Catering",
+    "location": "Pune, MH",
+    "pricePerPlate": 320,
+    "cuisines": ["Maharashtrian", "Home-style"],
+    "rating": 4.3
+  },
+  {
+    "id": "6",
+    "name": "Tandoor Trail",
+    "location": "Delhi, DL",
+    "pricePerPlate": 1700,
+    "cuisines": ["Punjabi", "Continental"],
+    "rating": 4.4
+  }
+]

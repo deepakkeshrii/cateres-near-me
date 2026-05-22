@@ -1,0 +1,29 @@
+html, body {
+  background-color: #f6f7f9;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.navbar-brand {
+  letter-spacing: -0.01em;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.card .badge.bg-light {
+  font-weight: 500;
+}
+
+.form-control:focus,
+.form-select:focus {
+  border-color: #86b7fe;
+  box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.15);
+}
+
+footer {
+  background-color: #fff;
+}
